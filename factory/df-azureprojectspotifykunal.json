@@ -1,0 +1,9 @@
+{
+	"name": "df-azureprojectspotifykunal",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e53ce451-9300-43f4-85bd-f592870b6613",
+		"tenantId": "5be0d77a-d004-402d-b834-2f2d0c2895bb"
+	}
+}
